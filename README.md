@@ -34,6 +34,7 @@ whoami 查看当前用户
 - [Git的奇技淫巧 - Github](https://github.com/521xueweihan/git-tips)
 - [猴子都能懂的GIT入门 - 贝格乐（Backlog）](https://backlog.com/git-tutorial/cn/)
 - [10 分钟学会Linux常用 bash命令 - Savorboard - 博客园](https://www.cnblogs.com/savorboard/p/bash-guide.html)
+- [TortoiseGit git ssh 配置 详细步骤_运维_赵英超的博客-CSDN博客](https://blog.csdn.net/ZYC88888/article/details/82349471)
 ## Git Gui
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [TortoiseGit](https://tortoisegit.org/)
